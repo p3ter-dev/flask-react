@@ -62,7 +62,7 @@ npm install
 
 Run the React application:
 
-npm start
+npm run dev
 
 Usage:
 
