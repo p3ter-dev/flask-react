@@ -1,6 +1,60 @@
 input, button, label {
     margin-top: 10px;
 }
-* {
+div > .container {
+    display: flex;
+    text-align: center;
     align-items: center;
+    flex-direction: column;
+}
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f9f9f9; 
+  }
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+    font-family: Arial, serif;
+    font-size: 14px;
+}
+  
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+  
+tr:hover {
+    background-color: #e6f7ff;
+}
+
+@media (max-width: 768px) {
+  table {
+    width: 100%;
+}
+
+th, td {
+    font-size: 12px;
+    padding: 8px;
+}
+
+button {
+    width: 100%;
+    margin: 5px 0;
+}
 }
