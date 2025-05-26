@@ -94,4 +94,4 @@ Want to contribute? Follow these steps:
 ---
 
 ## 🙌 Acknowledgments
-This project was inspired by my passion for learning **Full Stack Development** using Flask and React. I hope you find it useful and insightful!
+This project was inspired by my passion for learning **Full Stack Development** using Flask and React. I hope you find it useful.
