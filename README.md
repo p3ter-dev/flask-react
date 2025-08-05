@@ -76,7 +76,7 @@ Ensure you have the following installed:
 ## Contributing
 Want to contribute? Follow these steps:
 
-1. **Fork** the repository 🍴
+1. **Fork** the repository
 2. **Create** a new feature branch:
    ```sh
    git checkout -b feature/your-feature
