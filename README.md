@@ -89,7 +89,7 @@ Want to contribute? Follow these steps:
    ```sh
    git push origin feature/your-feature
    ```
-5. **Create a Pull Request** 📩
+5. **Create a Pull Request**
 
 ---
 
