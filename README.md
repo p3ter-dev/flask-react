@@ -1,10 +1,10 @@
 # Full Stack Web Application
 
-Welcome to my first Full Stack Web Application! 🚀 This project combines the power of **Flask** for the backend and **React** for the frontend, offering a seamless web experience.
+Welcome to my first Full Stack Web Application! This project combines the power of **Flask** for the backend and **React** for the frontend, offering a seamless web experience.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ### **Backend:**
 - Built using **Flask**, a lightweight and powerful WSGI web framework for Python.
@@ -14,14 +14,14 @@ Welcome to my first Full Stack Web Application! 🚀 This project combines the p
 
 ---
 
-## ✨ Features
+## Features
 - **Modern Tech Stack**: Flask + React for a responsive and efficient application.
 - **Modular Structure**: Organized backend and frontend directories for maintainability.
 - **Easy Setup**: Straightforward installation and deployment process.
 
 ---
 
-## ⚙️ Installation
+## ⚙Installation
 
 ### **Prerequisites**
 Ensure you have the following installed:
@@ -67,13 +67,13 @@ Ensure you have the following installed:
 
 ---
 
-## 🚀 Usage
+## Usage
 - **Access the backend API** at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
 - **Open the frontend UI** at [http://localhost:3000/](http://localhost:3000/).
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Want to contribute? Follow these steps:
 
 1. **Fork** the repository 🍴
@@ -93,5 +93,5 @@ Want to contribute? Follow these steps:
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 This project was inspired by my passion for learning **Full Stack Development** using Flask and React. I hope you find it useful.
